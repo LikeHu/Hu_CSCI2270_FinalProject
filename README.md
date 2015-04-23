@@ -22,7 +22,7 @@ Contributors:
 Guo Alex helped me to find some math problems for our program and find some bugs.
 
 Warm tips:
-For more information what is Five in a row game or how to play it. You can search it on google for more details! Anyway, if you have some questions of feel confused when run my program. Be free to email me any time:lihu3173@colorado.edu.
+For more information what is Five in a row game or how to play it. You can search it on google for more details! Anyway, if you have some questions or feel confused when run my program. Be free to email me any time:lihu3173@colorado.edu.
 At last, hope you like my program!
 
 
