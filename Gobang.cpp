@@ -1055,14 +1055,14 @@ int main(){
              cout<<"Input the number to choose:"<<endl;
              cout<<"             1.With computer."<<endl;
              cout<<"             2.With another player."<<endl;
-             cout<<"             4.Instruction"<<endl;
+             cout<<"             3.Instruction"<<endl;
              cout<<"             0.Quit"<<endl;
 
              int s;
              cin>>s;
              if(s==1) go(1);
              if(s==2) go(2);
-             if(s==4) explain();
+             if(s==3) explain();
              if(s==0) exit(0);
              cout<<"Back to menu?  y: Yes  n: Quit game "<<endl;
              char yn;
