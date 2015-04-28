@@ -6,7 +6,7 @@ Welcome to Like's Five in a row game! This is one of Chinese traditional "Black 
 
 Run step:
 1. First, congratulation to play our Five in a row game! Here you can choose to play with computer or your friends!(Be careful! The computer is super clever! Try your best to win!)
-2. When you enter the number, the first number you enter means which row your stone will be place, and the second number means which column.
+2. When you enter the number, the first number you enter means which row your stone will be placed, and the second number means which column.
 3. You can exit the program when you enter 0.
 4. you can enter 222 to surrender when you think it is impossible to win computer!
 
@@ -14,7 +14,7 @@ Dependencies：
 The program can run on VM and any c++ software. You don't need any third-party libaray.
 
 System	Requirements：
-We wirte program on Windows, but not try it on Mac or other Linux. I recommend run it on VM.
+We write program on Windows, but not try it on Mac or other Linux. I recommend run it on VM.
 
 Group members:
 LikeHu and YiMan
