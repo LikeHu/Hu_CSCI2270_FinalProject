@@ -21,7 +21,7 @@ class Gobang{
              int last1,last2;                    //record last step
              int comresults[15][15];             //save score
              int humresults[15][15];
-             int temp[15][15];             //temp Chessboard
+             int temp[15][15];             //temp chessboard
              int max_com,max_hum,max_com_i,max_com_j,max_hum_i,max_hum_j;           //saving the highest points of computer's and player's
              int total_com,total_hum;              //computer's total score and player's total score.
              int goback;                      //back to start menu.
